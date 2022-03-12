@@ -1,6 +1,6 @@
 // This calculator was coded by Sami Elsayed
 
-#include <stdio.h>
+# include <stdio.h>
 
 int calculator() {
     char operator;
